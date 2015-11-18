@@ -1,0 +1,42 @@
+body {
+	background-image: url(../images/collage1.jpg);
+	background-size: cover;
+	background-position: relative;
+	background-repeat: no-repeat;
+}
+
+
+#nav {
+	background-color: green;
+}
+h1 {
+	text-align: center;
+	background-color: green;
+	color: yellow;
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+}
+
+#slogan {
+	color: yellow;
+	background-color: green;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 25px;
+	font-style: italic;
+
+}
+
+h2 {
+	color:yellow;
+	background-color: green;
+}
+
+
+#description {
+	color:yellow;
+	text-align: left;
+	background-color: green;
+	padding-left: yellow
+
+}
