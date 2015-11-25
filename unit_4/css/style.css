@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+
+body {
+	overflow-y: scroll;
+	padding-left: 0;
+	margin: 0;
+	font-family: Arial;
+	font-size: 16px;
+	background-color: #F1F1F1;
+	height: 2000px;
+	margin-left: 100px;
+	margin-right: 100px;
+
+}
+
+#top_nav {
+	background-color: #081519;
+}
+
+#top_nav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+#top_nav ul li {
+	display: inline-block;
+}
+
+#top_nav ul li:hover {
+	background-color: #333;
+	font-family: 'PT Serif', serif;
+}
+
+#top_nav ul li a, visited {
+	display: block;
+	padding: 15px;
+	color: #CCC;
+	text-decoration: none;
+}
+
+#live_scores {
+	background-color: #081519;
+	color: #86BDFF;
+	margin: 0px;
+	height: 80px;
+	text-align: center;
+	padding-top: 30px;
+	border-top: solid;
+	border-width: 2px;
+	border-color: #CCC;
+}
+
+#money_line, #game_of_the_day, #money_line_exclusives{
+	background-color: #CCC;
+	margin: 0px;
+	font-size: 40px;
+	color: #081519;
+	height: 150px;
+	width: 360px;
+	text-align: center;
+	padding-top: 40px;
+	overflow: auto;
+	float: left;
+
+}
+
+img {
+	float: center;
+}
+
