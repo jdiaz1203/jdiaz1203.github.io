@@ -1,0 +1,113 @@
+body {
+	background-color: #FFE2B8;
+}
+
+#top_nav {
+	background-color: #E8C66A;
+	border: 2px solid black;
+	padding: 10px 0;
+	margin-bottom: 0;
+}
+
+ul, li {
+	display: inline;
+	padding-left: 5px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 2px solid black;
+	padding: 10px 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+#content {
+	margin: auto;
+	margin-left: 40px;
+}
+
+#money_line, #game_of_the_day, #money_line_exclusives {
+	float: left;
+	padding: 40px 40px;
+	text-align: center;
+	margin-right: 15px;
+	height: 100px;
+	width: 300px;
+	border: 2px solid black;
+}
+
+#money_line {
+	background-color: #FFC675;
+}
+
+#game_of_the_day {
+	background-color: #FFC675;
+}
+
+#money_line_exclusives {
+	background-color: #FFC675;
+}
+
+#jose {
+	clear: both;
+	width: 850px;
+	float: left;
+	background-color: #E582A2;
+}
+
+
+#middle_nav {
+	background-color: #E8C66A;
+	border: 2px solid black;
+	padding: 10px 0;
+	margin-bottom: 0px;
+	width: 845px;
+}
+
+#text1, #text2 {
+	background-color: violet;
+	padding: 0px;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 300px;
+	width: 300px;
+	border: 2px solid black;
+	float: left;
+
+}
+
+
+#text3 {
+	float: right;
+	height: 365px;
+	width: 295px;
+	background-color: pink;
+	margin-right: 40px;
+	margin-top: 0px;
+	clear: none;
+	padding-left: 25px;
+	text-align: center;
+	border: 2px solid black;
+
+}
+
+footer {
+	background-color: #FF957E;
+	clear: both;
+	border: 2px solid black;
+	height: 200px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: justify;
+	font-size: 20px;
+	padding: 10px;
+
+
+}
+
+aside {
+	background-color:;
+}
+
